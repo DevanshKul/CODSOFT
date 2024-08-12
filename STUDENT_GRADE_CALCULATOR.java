@@ -33,8 +33,6 @@ public class STUDENT_GRADE_CALCULATOR {
 
         }
 
-//        System.out.println("TotalMarks : " + TotalMarks);
-
         AveragePercentage = TotalMarks / numberofSubjects;
 
         if (AveragePercentage >= 90){
